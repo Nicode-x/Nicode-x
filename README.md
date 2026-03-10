@@ -1,6 +1,6 @@
 ---
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFA500&center=true&vCenter=true&width=600&lines=Backend+Focused+MERN+Developer;I+Love+Building+Backend+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF6A00&center=true&vCenter=true&width=600&lines=Backend+Focused+MERN+Developer;I+Love+Building+Backend+Systems;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -15,7 +15,7 @@ Apart from coding, I enjoy **playing video games 🎮 and basketball 🏀**, and
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,java,python,html,css,git,github,vscode" />
