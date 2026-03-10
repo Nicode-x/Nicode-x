@@ -1,6 +1,6 @@
 ---
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF5F1F&center=true&vCenter=true&width=600&lines=Backend+Focused+MERN+Developer;I+Love+Building+Backend+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FFA500&center=true&vCenter=true&width=600&lines=Backend+Focused+MERN+Developer;I+Love+Building+Backend+Systems;Always+Learning+New+Technologies" />
 </p>
 
 ---
