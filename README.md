@@ -22,21 +22,6 @@ MongoDB | SQL
 
 ---
 
-## 📌 Projects
-
-### 🏦 Banking Backend System
-- Secure backend built with Node.js, Express, and MongoDB  
-- JWT authentication & password hashing  
-- Account management (Deposit, Withdraw, Transfer)  
-- Transaction history tracking  
-
-### ♟️ Real-Time Multiplayer Chess
-- Real-time multiplayer game using Socket.io  
-- Live game synchronization between players  
-- Built using Node.js and WebSockets  
-
----
-
 ## 🌱 Currently Learning
 - Advanced Backend Development  
 - System Design Fundamentals  
