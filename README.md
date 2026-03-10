@@ -15,7 +15,7 @@ Apart from coding, I enjoy **playing video games 🎮 and basketball 🏀**, and
 
 ---
 
-### Tech Stack
+### Tech Stack!
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,java,python,html,css,git,github,vscode" />
