@@ -1,14 +1,14 @@
 <h1 align="center">Hi , I'm Nikhil Malik</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Focused+MERN+Developer;I+Love+Building+Backend+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF6A00&center=true&vCenter=true&width=600&lines=Backend+Focused+MERN+Developer;I+Love+Building+Backend+Systems;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ### Hey there! 
 
-I'm Nikhil, a backend-focused developer and B.Tech CSE (AI & ML) student .
+I'm **Nikhil**, a **backend-focused developer** and B.Tech CSE (AI & ML) student .
 
 I enjoy building backend systems and scalable web applications using the **MERN stack**. If an idea sounds interesting or challenging, chances are I'll try to build it and learn something new from it.
 
