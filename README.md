@@ -22,24 +22,5 @@ Apart from coding, I enjoy **playing video games 🎮 and basketball 🏀**, and
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,java,python,html,css,git,github,vscode" />
 </p>
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nicode-x&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-### 💻 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicode-x&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Nicode-x/Nicode-x/blob/output/github-contribution-grid-snake.svg)
