@@ -1,33 +1,45 @@
-# Hi 👋 I'm Nikhil Malik
+<h1 align="center">Hi 👋, I'm Nikhil Malik</h1>
 
-🎓 B.Tech CSE (AI & ML) student  
-💻 Backend-focused MERN Stack Developer  
-🚀 Passionate about building scalable web applications and real-world backend systems.
-
----
-
-## 🚀 Tech Stack
-
-**Languages:**  
-JavaScript | Java | Python | SQL  
-
-**Backend:**  
-Node.js | Express.js | REST APIs | JWT Authentication  
-
-**Frontend:**  
-React | HTML | CSS | JavaScript  
-
-**Database:**  
-MongoDB | SQL  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Backend+Focused+MERN+Developer;I+Love+Building+Backend+Systems;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Backend Development  
-- System Design Fundamentals  
-- Scalable API Architecture  
+### Hey there! 
+
+I'm **Nikhil**, a backend-focused developer and **B.Tech CSE (AI & ML) student **.
+
+I enjoy building backend systems and scalable web applications using the **MERN stack**. If an idea sounds interesting or challenging, chances are I'll try to build it and learn something new from it.
+
+Apart from coding, I enjoy **playing video games 🎮 and basketball 🏀**, and I'm always curious about how systems work behind the scenes.
 
 ---
 
-## 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/nikhil-malik-848681319 
+### 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,java,python,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nicode-x&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 💻 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicode-x&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Nicode-x/Nicode-x/blob/output/github-contribution-grid-snake.svg)
